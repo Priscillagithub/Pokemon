@@ -32,6 +32,7 @@
 ### Data Visualizations.
 ### machine Learning
 The given Pokemon is Legendary or not by using Naive Bayes Algorithm.
+
 Accuracy:- The Accuracy is 0.94 is near to 1(must be between 0 and 1) - Good accuracy.
 
 ### Software :- JupyteNoteBook
